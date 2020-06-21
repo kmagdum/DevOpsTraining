@@ -1,3 +1,8 @@
 addfunc(num a, num b){
 
 }
+
+addfunc(numa, num b, num c){
+
+}
+
